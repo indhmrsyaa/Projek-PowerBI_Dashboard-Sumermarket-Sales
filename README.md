@@ -105,6 +105,10 @@ These KPIs provide a quick overview of the supermarket's overall sales performan
 
 ---
 
+## 📊 Dashboard Preview
+
+![Employee Attrition Dashboard](Dashboard_Supermarket-Sales.png) 
+
 ## 📈 Dashboard Features
 
 ### 1. Sales Trend Analysis
@@ -182,12 +186,6 @@ The dashboard includes interactive slicers that allow users to filter the analys
 - **Gender**
 
 Users can select specific categories to dynamically update the dashboard visualizations.
-
----
-
-## 📊 Dashboard Preview
-
-![Employee Attrition Dashboard](Dashboard_Supermarket-Sales.png) 
 
 ---
 ## 💡 Key Insights
