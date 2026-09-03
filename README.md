@@ -187,9 +187,21 @@ Users can select specific categories to dynamically update the dashboard visuali
 
 ## 📊 Dashboard Preview
 
-![Supermarket Sales Dashboard](images/supermarket-sales-dashboard.png)
+![Supermarket Sales Dashboard](PowerBI Dashboard - Supermarket Sales.png)
 
 ---
+## 💡 Key Insights
+
+The dashboard enables users to:
+
+- Monitor overall supermarket sales performance through KPI cards.
+- Compare profitability across different cities.
+- Understand customer payment preferences.
+- Evaluate product line performance based on revenue and profit.
+- Compare customer satisfaction across product lines.
+- Analyze purchasing behavior between Member and Normal customers.
+- Monitor sales trends over time.
+
 ## 🚀 How to Use
 
 1. Download or clone this repository.
@@ -216,23 +228,6 @@ Supermarket-Sales-PowerBI/
 └── dataset/
     └── supermarket_sales.csv
 ```
-## 💡 Key Insights
-
-The dashboard enables users to:
-
-- Monitor overall supermarket sales performance through KPI cards.
-- Compare profitability across different cities.
-- Understand customer payment preferences.
-- Evaluate product line performance based on revenue and profit.
-- Compare customer satisfaction across product lines.
-- Analyze purchasing behavior between Member and Normal customers.
-- Monitor sales trends over time.
-
-## 📚 Data Source
-
-**Supermarket Sales Dataset – Kaggle**
-
-Dataset: https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales
 
 ## ⭐ Project Purpose
 
