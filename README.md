@@ -187,7 +187,7 @@ Users can select specific categories to dynamically update the dashboard visuali
 
 ## 📊 Dashboard Preview
 
-![Supermarket Sales Dashboard](PowerBI Dashboard - Supermarket Sales.png)
+![PowerBI Dashboard - Supermarket Sales.png]
 
 ---
 ## 💡 Key Insights
