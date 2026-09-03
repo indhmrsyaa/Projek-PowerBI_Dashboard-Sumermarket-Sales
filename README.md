@@ -187,7 +187,7 @@ Users can select specific categories to dynamically update the dashboard visuali
 
 ## 📊 Dashboard Preview
 
-![Employee Attrition Dashboard](PowerBI Dashboard - Supermarket Sales.png) 
+![Employee Attrition Dashboard](Dashboard_Supermarket-Sales.png) 
 
 ---
 ## 💡 Key Insights
