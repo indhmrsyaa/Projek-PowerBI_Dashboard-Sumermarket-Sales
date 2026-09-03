@@ -176,8 +176,6 @@ A detailed table is included to compare product line performance based on:
 
 This allows users to compare financial performance across product categories.
 
----
-
 ## 🎛️ Interactive Filters
 
 The dashboard includes interactive slicers that allow users to filter the analysis based on:
@@ -187,7 +185,6 @@ The dashboard includes interactive slicers that allow users to filter the analys
 
 Users can select specific categories to dynamically update the dashboard visualizations.
 
----
 ## 💡 Key Insights
 
 The dashboard enables users to:
@@ -199,6 +196,8 @@ The dashboard enables users to:
 - Compare customer satisfaction across product lines.
 - Analyze purchasing behavior between Member and Normal customers.
 - Monitor sales trends over time.
+
+---
 
 ## 🚀 How to Use
 
